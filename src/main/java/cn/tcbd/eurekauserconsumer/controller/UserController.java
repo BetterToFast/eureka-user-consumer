@@ -31,7 +31,7 @@ public class UserController {
         for (int i=0;i<10;i++){
             userService.text(i);
         }
-        System.out.println("efwf");
+        System.out.println("ef");
        return "打印了";
     }
 
